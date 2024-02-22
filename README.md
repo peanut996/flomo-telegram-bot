@@ -22,7 +22,7 @@ tgbot_token: 123456789:xxxxxx
 ```
 ## 运行
 
-前往Release界面下载二进制文件解压运行：
+前往[Release](https://github.com/peanut996/flomo-telegram-bot/releases)界面下载二进制文件解压运行：
 
 ```bash
 ./flomo-telegram-bot
