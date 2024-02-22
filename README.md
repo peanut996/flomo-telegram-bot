@@ -10,8 +10,8 @@ flomo-telegram-bot 是一个使用 Go 语言编写的 Telegram 机器人，可�
 您需要配置以下环境变量：
 
 ```
-FLOMO_ENV_KEY: Flomo API URL
-TG_BOT_ENV_KEY: Telegram Bot API 令牌
+FLOMO_API_URL: Flomo API URL
+TG_BOT_TOKEN: Telegram Bot API 令牌
 ```
 
 
@@ -35,6 +35,16 @@ git clone https://github.com/peanut996/flomo-telegram-bot
 cd flomo-telegram-bot
 go run .
 ```
+
+## 使用
+
+直接与机器人对话即可， 目前暂不支持图片上传，等待后续开发
+
+额外命令支持：
++ /ping 查看机器是否存活
+
+![](./assets/screenshot.png)
+
 
 
 ## 致谢
