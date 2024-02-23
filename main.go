@@ -18,6 +18,6 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	log.Println("flomo bot start success!")
+	log.Println("flomo bot start done!")
 	bot.Run()
 }
