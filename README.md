@@ -1,9 +1,13 @@
 # flomo-telegram-bot
 
+
 ## 简介
 
 flomo-telegram-bot 是一个使用 Go 语言编写的 Telegram 机器人，可用于与 Flomo 进行交互。它可以帮助您在Telegram快速发送你的想法到Flomo
 
+## 体验地址
+
+[FlomoNoteBot](https://t.me/flomo_note_bot)
 
 ## 配置
 
